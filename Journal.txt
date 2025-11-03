@@ -16,10 +16,12 @@ Week 3
 Week 5
 I used Ai to help fill in parts that I was doing completely wrong. 
 I also used AI to test my code for debugging and used it to help debug
+I used Ai to help design my functions for the project 1 and debug and test my code
 
 Week 6
 I used Ai to help fill in parts that I was doing completely wrong. 
 I also used AI to test my code for debugging and used it to help debug
+
 
 Week 7
 I used Ai to help fill in parts that I was doing completely wrong. 
@@ -28,3 +30,4 @@ I also used AI to test my code for debugging and used it to help debug
 Week 8
 I used Ai to help fill in parts that I was doing completely wrong. 
 I also used AI to test my code for debugging and used it to help debug
+I used Ai to help design my functions for the project 2 and debug and test my code
