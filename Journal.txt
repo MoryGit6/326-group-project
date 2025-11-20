@@ -31,3 +31,8 @@ Week 8
 I used Ai to help fill in parts that I was doing completely wrong. 
 I also used AI to test my code for debugging and used it to help debug
 I used Ai to help design my functions for the project 2 and debug and test my code
+
+Week 9
+This weeks project was taking alot longer so a lot more of the methods I would get stuck and have ai help me 
+figure out how to make the method. I would forget to use certain syntax and it would know it for me. A lot of 
+debugging was also done with ai for testing so I wouldnt have to come up with any on my own
