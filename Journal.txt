@@ -36,3 +36,10 @@ Week 9
 This weeks project was taking alot longer so a lot more of the methods I would get stuck and have ai help me 
 figure out how to make the method. I would forget to use certain syntax and it would know it for me. A lot of 
 debugging was also done with ai for testing so I wouldnt have to come up with any on my own
+
+Week 10
+This weeks excersises were the hardest so far. I was having a rough time trying to complete the excersises without 
+using ai to check for mistakes because after the first few I could not get them to work first try.
+
+Week 12
+Nothting was due the week before, and nothing this week either. I used ai a little to hep witht he final project.
